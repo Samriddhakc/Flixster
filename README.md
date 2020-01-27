@@ -28,7 +28,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 <br>
 
-## With Landscape mode 
+## Potrait+Landscape mode 
 <img src="https://github.com/Samriddhakc/Flixster/blob/master/walkthrough.gif" width=250><br>
 
 ### Notes
